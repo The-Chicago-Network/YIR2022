@@ -15,7 +15,7 @@ template.innerHTML = `
 
     .innerSlide {
       margin: 0 auto 0 auto;
-      width: 70vw;
+      max-width: 70vw;
       padding-left: 5vw;
       padding-right: 5vw;
     }
